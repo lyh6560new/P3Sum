@@ -1,7 +1,7 @@
 # Code for paper "P$^3$SUM: Preserving Author’s Perspective in News Summarizationwith Diffusion Language Models" accepted at NAACL@2024!
 
 ## Acknowledgement
-The diffusion part heavily relies on [TESS](https://github.com/allenai/tess-diffusion) and [SSD-LM](https://github.com/xhan77/ssd-lm)  We extend our sincere gratitude to the authors for generously sharing the code in advance and for their exceptional work. Please check their remarkable papers as well:
+The diffusion part heavily relies on [TESS](https://github.com/allenai/tess-diffusion) and [SSD-LM](https://github.com/xhan77/ssd-lm).  We extend our sincere gratitude to the authors for generously sharing the code in advance and for their exceptional work. Please check their remarkable papers as well:
 1. [TESS: Text-to-Text Self-Conditioned Simplex Diffusion](https://arxiv.org/abs/2305.08379)
 2. [SSD-LM: Semi-autoregressive Simplex-based Diffusion Language Model for Text Generation and Modular Control](https://arxiv.org/abs/2210.17432)
 
